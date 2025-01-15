@@ -22,9 +22,5 @@ This project aims to create an inventory management system for Shopify. The goal
   - `pandas` (Python) for handling CSV files.
 - **API**: Shopify API
 
-## Installation
-To get started with this project, follow the steps below:
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/Shopify-Inventory-Management.git
+## AI
+-Goal is to one day implement ai to maximize and optimize workflow.
